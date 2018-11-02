@@ -20,6 +20,7 @@ public class GithubCE4 {
         for(int i = 0; i < 100; i++){
             System.out.println("Loop: " + i);
         }
+        System.out.println("Madi does not approve of this code! :(");
     }
     
 }
